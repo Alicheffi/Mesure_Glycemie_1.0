@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cheffi_Ali_I1_Mesure_Glycemie</string>
+    <string name="text">Mesure de niveau de glycémie</string>
+    <string name="text1">Valeur mesurée (en mmol/l)</string>
+</resources>
